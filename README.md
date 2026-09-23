@@ -14,7 +14,7 @@ Hemos colaborado en el proyecto:
 - Lucas
 - Ana
 
-Esta modificación nos sirve para aprender MarkDown que por ejemplo los titulos <h1> </h1> los coloca con una almohadilla 
+Esta modificación nos sirve para aprender MarkDown que por ejemplo los titulos `<h1> </h1>` los coloca con una almohadilla 
 
 ---
 
@@ -23,3 +23,13 @@ Esta modificación nos sirve para aprender MarkDown que por ejemplo los titulos 
 | versión | Modificación | Propietario de la modificación |
 | ---- | --- | --- |
 | 1.0 | Creación del Readme | Samuel López |
+
+```
+{
+  "Nombre": "Samuel",
+  "Apellido": "López",
+  "Edad": "20",
+}
+```
+
+
