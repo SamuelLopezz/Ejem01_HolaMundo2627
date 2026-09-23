@@ -32,4 +32,9 @@ Esta modificación nos sirve para aprender MarkDown que por ejemplo los titulos 
 }
 ```
 
+---
+---
+---
+Modificación realizada con Windows
+
 
